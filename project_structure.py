@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 Script to create the HMPI Application project structure
+Not a part of application ,it just provides desired directory structure.
 Run: python create_structure.py
 """
 
