@@ -131,17 +131,19 @@ Where:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
 
 ## Contact
 
-For questions or support, contact: team@environmental-analytics.com
+For questions or support, contact: durgatech555@gmail.com  
+LinkedIn: www.linkedin.com/in/durgatech555
 
 ## Citation
 
 If you use this application in your research, please cite:
 
 ```
-Heavy Metal Pollution Indices Calculator (2024). Environmental Data Analytics Team.
+Heavy Metal Pollution Indices Calculator (2025). 
 Available at: https://github.com/DurgaPrasadPatra/hmpi-calculator
+
 ```
